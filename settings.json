@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EscolaCraft.aternos.me",
-    "port": 13879,
+    "ip": "minecraftoos.falix.gg",
+    "port": 21910,
     "version": "",
     "try-creative": false
   },
